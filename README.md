@@ -1,2 +1,4 @@
 # medical_therapy_line_algorithm
-A repository that contains SAS codes for the medical therapy algorithm
+SAS macros for medical therapeutic drug group definition, and for medical therapy line algorithm. 
+SAS code for simulate a population.
+SAS code for testing.
